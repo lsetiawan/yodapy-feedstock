@@ -1,6 +1,9 @@
 About yodapy
 ============
 
+> [!WARNING]
+> **yodapy is no longer maintained upstream.** The upstream repository [cormorack/yodapy](https://github.com/cormorack/yodapy) is archived on GitHub, and the last release was 0.3.0b0 on 2019-08-23. This feedstock stays available for existing users, but no new versions are expected.
+
 Home: https://github.com/cormorack/yodapy
 
 Package license: MIT
